@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
-
-#TWiiter inc. components nav bar
+#We will be using the devise gem for authentication and user accounts
+gem 'devise'
+#Twiter inc. components nav bar
 gem 'bootstrap-sass', '~> 3.3.6'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
